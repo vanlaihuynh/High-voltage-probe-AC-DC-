@@ -8,3 +8,4 @@ This probe suitable for testing high voltage AC/DC at low frequency AC 5KV, DC 6
 <img width="1182" height="2560" alt="1788880720200_204167888535405221_8563789186804792232_178978c35907640afcc412cbf3eddf34" src="https://github.com/user-attachments/assets/ced79e3c-fcbd-43f2-9e50-5e11ef9af119" />
 <img width="1182" height="2560" alt="1788880720127_204167888535405221_8563789186804792232_54a7fbdffbbb6395147944445fb31d97" src="https://github.com/user-attachments/assets/c0bd7d96-a959-4004-81f7-d687dae53819" />
 <img width="1182" height="2560" alt="1788880720066_204167888535405221_8563789186804792232_56bef4205a89444e840be86b28dca6af" src="https://github.com/user-attachments/assets/dc6c28be-dd41-4d4f-81f5-716402be7d1b" />
+<img width="1440" height="2560" alt="1788880317727_204167888535405221_8563789186804792232_7c467a73fa2a11994ecefb6c4d52c708" src="https://github.com/user-attachments/assets/6f706417-fb50-4416-91ab-8fc50cf5c1a9" />
