@@ -2,7 +2,7 @@
 This probe suitable for testing high voltage AC/DC at low frequency AC 5KV, DC 6KV 
 * Power input( DC jack 5.5x2.1mm female): 5.5Vdc/2A or 1 cell lithium battery recharge.
 * Attenuation: default at 1000/1 full range, 100/1 by button( indication led on) max 1KV AC/DC
-* Input impedance: 10MΩ, with 5MΩ each side to ground.
+* Input impedance: 20MΩ, with 10MΩ each side to ground.
 * Input (banana female 4mm): two input.
 * Output (BNC male): max 11Vdc/ac
   
